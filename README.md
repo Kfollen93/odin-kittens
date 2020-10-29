@@ -1,24 +1,3 @@
-# README
+# Odin Kittens
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was a fast and straightforward project where I set up a Rails app to be a data-producing API. This meant that my controller methods render data instead of HTML. This was a quick way to be introduced into building a pure vanilla RESTful resource. I used the ``rest-client`` gem and rendered my controller methods with JSON.
